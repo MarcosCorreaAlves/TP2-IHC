@@ -5,3 +5,6 @@
 
 ## Utilizar recursos de multimídia para o bem estar.
 ![Captura de tela 2024-11-25 154732](https://github.com/user-attachments/assets/3671f5a3-4cc8-475a-b7ca-52609b2afc2c)
+
+## Personalizar a experiência no sistema.
+![Captura de tela 2024-11-25 184505](https://github.com/user-attachments/assets/7105ebad-c8e2-4242-94f8-826601a63fae)
