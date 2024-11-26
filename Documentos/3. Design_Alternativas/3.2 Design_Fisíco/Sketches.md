@@ -9,6 +9,6 @@
 ## Personalizar a experiência no sistema.
 ![Captura de tela 2024-11-25 184505](https://github.com/user-attachments/assets/7105ebad-c8e2-4242-94f8-826601a63fae)
 
-## Monitar o progresso do usuário e Auxiliar e orientar o usuário 
+## Monitorar o progresso do usuário, auxiliar e orientar o usuário 
 ![Captura de tela 2024-11-25 185114](https://github.com/user-attachments/assets/9a1c383c-3b27-4723-a405-b9e5d2d3b26b)
 ![Captura de tela 2024-11-25 185512](https://github.com/user-attachments/assets/9bbfcd28-66ed-4afa-a7bf-0871cd767751)
