@@ -1,5 +1,8 @@
 # Esboços das telas ("sketches"):
 
+## Início da interação do usuário com o sistema.
+![Captura de tela 2024-11-26 070857](https://github.com/user-attachments/assets/0fb8f484-132b-4ef0-952b-ab576a999460)
+
 ## Registrar como foi o seu dia.
 ![Captura de tela 2024-11-25 153441](https://github.com/user-attachments/assets/a28e7397-2058-441c-9f10-fa14bf3a5c5f)
 
