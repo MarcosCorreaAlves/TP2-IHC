@@ -1,6 +1,6 @@
 ## Ícones e Ilustração
 <p align="center">
   
-<img src ="Ícones e Ilustração/C:/Users/Mateus Verçosa/OneDrive/Área de Trabalho/Img.Lumina/Ícones/Lumina.png" style="width:31%"/>
-
+![Ícones Lumina](https://github.com/user-attachments/assets/f4e29201-50da-4b7a-a3c2-2ab805d6f853)
 </p>
+
