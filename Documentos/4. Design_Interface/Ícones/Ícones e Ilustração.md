@@ -1,6 +1,6 @@
-## Ícones e Ilustração - Lumina
+# Ícones e Ilustração - Lumina
 
-# Papel dos ícones e Ilustração:
+## Papel dos ícones e Ilustração:
 
 - Ícones e ilustrações desempenham papéis fundamentais em uma interface, contribuindo para a usabilidade, a estética e a comunicação visual.
 
