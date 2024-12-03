@@ -1,3 +1,3 @@
 ## Ícones e Ilustração
 <p align="center">
-<img src="Ícones/Imagens/Ícones Lumina.png"
+![image](C:\Users\Mateus Verçosa\OneDrive\Área de Trabalho\Img.Lumina\Ícones Lumina.png)
