@@ -1,6 +1,6 @@
 ## Ícones e Ilustração
 <p align="center">
   
-<img src ="Ícones e Ilustração/Imagens/C:\Users\Mateus Verçosa\OneDrive\Área de Trabalho\Img.Lumina\Ícones Lumina.png" style="width:31%"/>
+<img src ="Ícones e Ilustração/Img.Lumina/Ícones Lumina.png" style="width:31%"/>
 
 </p>
