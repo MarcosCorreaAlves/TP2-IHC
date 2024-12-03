@@ -11,10 +11,11 @@ O nome Lumina tem origem no latim, derivado da palavra "lumen", que significa "l
 ### Conexão Emocional
 - A suavidade dos traços e a harmonia da composição criam uma sensação de calma e acolhimento.
 - Isso pode criar uma sensação de leveza e aceitação, o que ajuda a promover calma e segurança para quem está em um estado emocional vulnerável.
-- 
+
+ 
 ![Logo Lumina](https://github.com/user-attachments/assets/a5382848-2691-40af-83c0-3621de792a21)
 
-  A logo parece comunica que, mesmo em momentos difíceis, há uma luz interna que pode ser encontrada.
+  A logo comunica que, mesmo em momentos difíceis, há uma luz interna que pode ser encontrada.
   E incentiva um processo de autovalorização, suavidade e aceitação do próprio ritmo para lidar com os desafios emocionais.
 
   </p>
